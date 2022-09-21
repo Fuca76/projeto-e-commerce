@@ -13,6 +13,7 @@ O endereço do cliente irá determinar o valor do frete
 Um cliente pode comprar mais de um pedido. Este tem um período de carência para devolução do produto
 
 **Pedidos**
+
 Os pedido são criados por clientes e possuem informações de compra , endereço e status de entrega
 Um produto ou mais compoem o pedido
 O pedido pode ser cancelado
